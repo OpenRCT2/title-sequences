@@ -1,4 +1,20 @@
 # SCRIPT FOR Spacek 008 Sequence fork 1
+LOAD Frosty Frolics.sv6
+LOCATION 50 47
+WAIT 12
+LOAD 2 - Parabola Park.sv6
+LOCATION 77 47
+WAIT 4
+ROTATE 1
+LOCATION 82 60
+WAIT 8
+LOAD Jackal Heights timer 1.sv6
+ROTATE 3
+LOCATION 42 66
+WAIT 8
+ROTATE 1
+LOCATION 43 36
+WAIT 20
 LOAD Stosky timer 1.sv6
 ROTATE 3
 LOCATION 90 46
@@ -27,7 +43,7 @@ WAIT 8
 ROTATE 1
 LOCATION 68 66
 WAIT 8
-LOAD Ill Paradise timer base.sv6
+LOAD Ill Paradise Timer 1.sv6
 LOCATION 135 92
 WAIT 8
 ROTATE 1
