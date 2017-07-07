@@ -1,4 +1,3 @@
-# SCRIPT FOR Spacek 008 Sequence fork 4
 LOAD SpacekKing.sv6
 LOCATION 78 70
 WAIT 7200
