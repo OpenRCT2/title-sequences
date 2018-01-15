@@ -1,3 +1,4 @@
+# SCRIPT FOR 012 sequence RFC 2
 LOAD CocoaBayou.sv6
 ROTATE 2
 LOCATION 85 67
