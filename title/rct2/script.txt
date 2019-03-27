@@ -1,6 +1,6 @@
 # RollerCoaster Tycoon 2 Title Sequence
 
-LOADMM
+LOADSC Six Flags Magic Mountain
 
 LOCATION 210 112
 WAIT 10400
