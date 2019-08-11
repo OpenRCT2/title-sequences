@@ -12,3 +12,6 @@ Get-ChildItem -Attributes Directory "title" | ForEach-Object {
         }
     Pop-Location
 }
+Set-Location artifacts
+Copy-Item v0.1.2.parkseq openrct2.parkseq
+7z a -tzip -mx9 -mtc=off -r title-sequences.zip rct1.parkseq rct1aa.parkseq rct1aall.parkseq rct2.parkseq openrct2.parkseq
