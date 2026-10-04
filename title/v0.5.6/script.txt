@@ -1,4 +1,4 @@
-# SCRIPT FOR OpenRCT2 v0.5.5 v1
+# SCRIPT FOR OpenRCT2 v0.5.6 v1
 LOAD Nothin but Hot Air by Monsterbux & Mulpje & Therty & TimmyTuner.park
 ZOOM 0
 ROTATE 0
